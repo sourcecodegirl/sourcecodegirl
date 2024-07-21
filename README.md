@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sourcecodegirl
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - ⚡ Fun fact: I like cars
