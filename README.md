@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sourcecodegirl
 - 👀 I like front-end development
 - 🌱 I like working with JavaScript, React, Python, Swift
 - ⚡ Fun fact: I like cars
